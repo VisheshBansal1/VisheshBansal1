@@ -25,7 +25,7 @@ Flutter • Dart • Python • C++ • Firebase • Hive • Google Cloud • M
 
 🧾 Shop Bill Manager — Bill tracking app with smart summary & image backup
 
-🧕 Women Safety App — AI + Safety features like panic button, voice commands, and real-time alerts
+Quiz Aura - Online Quiz App where there are multiple functionality like 1vs1 and tournament quiz 
 
 🌱 Currently Learning
 
