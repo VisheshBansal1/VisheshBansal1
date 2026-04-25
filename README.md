@@ -52,6 +52,7 @@ Build apps that can scale and generate revenue
 Get into a serious tech role where I actually build impactful products
 
 🤝 Connect
+
 LinkedIn: www.linkedin.com/in/vishesh-bansal1
 
 GitHub: https://github.com/VisheshBansal1
