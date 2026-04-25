@@ -10,6 +10,7 @@ Build production-ready Flutter apps with clean architecture
 Work with Firebase, Hive, and real-time data systems
 Experiment with AI features that can be integrated into apps (not just theory)
 Ship projects fast and iterate based on real usage
+
 ⚙️ Tech Stack
 
 Flutter • Dart • Firebase • Hive • Python  • REST APIs 
@@ -29,6 +30,7 @@ A complete bill & payment management system for shopkeepers — not just trackin
 👉 This is basically a mini financial system, not just a bill app
 
 🎯 QuizAura
+
 Competitive quiz platform
 → 1v1 battles, tournaments, leaderboards, XP/streak system
 → Anti-cheating detection (tab switch tracking)
