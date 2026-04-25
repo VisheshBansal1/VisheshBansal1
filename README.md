@@ -1,50 +1,56 @@
-👋 Hey there, I'm Vishesh
+🚀 Vishesh Bansal
 
-🚀 Flutter Developer | AI Enthusiast | B.Tech CSE Student
+Flutter Developer | Building Real-World Apps | Exploring AI
 
-I'm a developer who loves creating apps that actually solve problems.
-Currently, I’m exploring Generative AI, Machine Learning, and making Flutter apps with clean UI and solid logic.
+I build apps that solve actual problems — not just UI demos.
+Focused on Flutter + backend integration + practical AI use-cases.
 
-💡 What I Do
-
-🧠 Build smart apps using Flutter & Firebase
-
-🤖 Learn & explore Generative AI and Machine Learning
-
-💻 Work on projects that make a real-world impact
-
-📚 Share my learnings & daily dev journey
-
+💡 What I Actually Do
+Build production-ready Flutter apps with clean architecture
+Work with Firebase, Hive, and real-time data systems
+Experiment with AI features that can be integrated into apps (not just theory)
+Ship projects fast and iterate based on real usage
 ⚙️ Tech Stack
 
-Flutter • Dart • Python • C++ • Firebase • Hive • Google Cloud • Machine Learning
+Flutter • Dart • Firebase • Hive • Python  • REST APIs 
 
-🧩 Projects I’m Working On
+🧩 Key Projects
 
-💬 ChatSphere — WhatsApp UI Clone with Hive & Firebase
+🧾 Shop Bill Manager
+A complete bill & payment management system for shopkeepers — not just tracking
 
-🧾 Shop Bill Manager — Bill tracking app with smart summary & image backup
+→ Upload bills with image storage + backup
+→ Duplicate bill detection to prevent repeated entries
+→ Automatic balance calculation (credit/debit tracking)
+→ View complete transaction history with summaries
+→ Delete & manage records with confirmation logic
+→ Designed for real-world shop usage, not demo-level CRUD
 
-Quiz Aura - Online Quiz App where there are multiple functionality like 1vs1 and tournament quiz 
+👉 This is basically a mini financial system, not just a bill app
 
-🌱 Currently Learning
+🎯 QuizAura
+Competitive quiz platform
+→ 1v1 battles, tournaments, leaderboards, XP/streak system
+→ Anti-cheating detection (tab switch tracking)
+→ AI-generated quizzes with admin control
 
-Flutter advanced UI & animations
+🤖 AI Resume Analyzer
+AI-powered resume evaluation tool
 
-Firebase & backend integration
+→ Analyze resumes using NLP techniques
+→ Give feedback on skills, structure, and improvements
+→ Helps users optimize resumes for better selection chances
+→ Can be extended for ATS-style scoring system
 
-Generative AI & prompt engineering
-
-📈 Goals
-
-🔹 Become a top Flutter + AI Developer
-🔹 Build apps that people love to use
-🔹 Land a great tech role or internship in 2025
-
-🤝 Let’s Connect
-
-💼 LinkedIn  www.linkedin.com/in/vishesh-bansal1
-
-🧑‍💻 GitHub   https://github.com/VisheshBansal1
-
-✉️ Email     vasubansal741@gmail.com
+🌱 Currently Improving
+Advanced Flutter UI + performance optimization
+Backend system design (not just Firebase dependency)
+Practical AI integration inside apps
+🎯 Goals (No fluff)
+Become strong in end-to-end app development (frontend + backend + AI)
+Build apps that can scale and generate revenue
+Get into a serious tech role where I actually build impactful products
+🤝 Connect
+LinkedIn: www.linkedin.com/in/vishesh-bansal1
+GitHub: https://github.com/VisheshBansal1
+Email: vasubansal741@gmail.com
