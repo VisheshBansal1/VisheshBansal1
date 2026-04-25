@@ -50,7 +50,10 @@ Practical AI integration inside apps
 Become strong in end-to-end app development (frontend + backend + AI)
 Build apps that can scale and generate revenue
 Get into a serious tech role where I actually build impactful products
+
 🤝 Connect
 LinkedIn: www.linkedin.com/in/vishesh-bansal1
+
 GitHub: https://github.com/VisheshBansal1
+
 Email: vasubansal741@gmail.com
